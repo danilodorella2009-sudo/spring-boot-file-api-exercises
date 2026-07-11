@@ -8,8 +8,8 @@ Este repositório foi desenvolvido com o objetivo de consolidar conceitos fundam
 
 ### 1. API da Playlist 🎵
 * **Conceitos Focados:** `@RestController`, `@GetMapping`, `@PostMapping`, `FileReader`, `BufferedReader`.
-* 📂 [Acessar arquivos desta atividade](./COLOQUE_O_CAMINHO_AQUI/)
-* 📄 [Ver Controller desta atividade](./COLOQUE_O_CAMINHO_AQUI/PlaylistController.java)
+* 📂 [Acessar arquivos desta atividade](./Nivel_1_API_Playlist/)
+* 📄 [Ver Controller desta atividade](./Nivel_1_API_Playlist/PlaylistApplication.java)
 
 ### 2. O Catálogo de Personagens Web 🎮
 * **Conceitos Focados:** `Herança`, `Polimorfismo`, `@PathVariable`, `CSV Split`, `instanceof`.
